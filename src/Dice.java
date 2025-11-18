@@ -4,4 +4,8 @@ public class Dice {
         int dice = (int) (Math.random() * 10) + 1;
         return dice;
     }
+
+
+
+
 }
